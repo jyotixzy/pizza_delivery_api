@@ -1,2 +1,2 @@
-# pizza_delivery_api
-Pizza Delivery API – FastAPI  : Developed a RESTful API for a pizza delivery service with secure user authentication and role-based access. Designed PostgreSQL database models with SQLAlchemy ORM for users and orders.
+Pizza Delivery API – FastAPI
+Built a RESTful API for a pizza delivery service with secure authentication, role-based access, order management endpoints, Swagger UI docs, and PostgreSQL models using SQLAlchemy.
